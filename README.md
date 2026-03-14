@@ -1,18 +1,24 @@
 <h1 align="center">Antonio Paulo Goncalves</h1>
 
 <p align="center">
-  Founder of <a href="https://vallor.ai">Vallor</a> and builder of AI tools, developer workflows, and useful software.
+  I build AI tools, developer workflows, and useful software.
 </p>
 
 <p align="center">
-  <a href="https://vallor.ai">
-    <img src="https://img.shields.io/badge/Founder-Vallor-0f172a?style=for-the-badge" alt="Founder of Vallor" />
+  <a href="https://github.com/antondkg/OpenCast">
+    <img src="https://img.shields.io/badge/OpenCast-Live-ff6363?style=for-the-badge" alt="OpenCast" />
+  </a>
+  <a href="https://github.com/antondkg/mcp-imessage">
+    <img src="https://img.shields.io/badge/mcp--imessage-Rust-2563eb?style=for-the-badge" alt="mcp-imessage" />
+  </a>
+  <a href="https://github.com/antondkg/homebrew-tap">
+    <img src="https://img.shields.io/badge/homebrew--tap-Tools-f59e0b?style=for-the-badge" alt="homebrew-tap" />
   </a>
   <a href="https://github.com/antondkg?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-6-2563eb?style=for-the-badge" alt="Public repos" />
   </a>
-  <a href="https://github.com/antondkg/followers">
-    <img src="https://img.shields.io/badge/Followers-2-16a34a?style=for-the-badge" alt="Followers" />
+  <a href="https://vallor.ai">
+    <img src="https://img.shields.io/badge/Founder-Vallor-0f172a?style=for-the-badge" alt="Founder of Vallor" />
   </a>
 </p>
 
@@ -34,17 +40,17 @@
   <a href="https://www.linkedin.com/in/antoniogonc/">LinkedIn</a>
 </p>
 
-## What I do
-
-- building Vallor, an AI company focused on making contract work easier
-- shipping tools around OpenCode, Raycast, MCPs, and automation
-- turning annoying workflows into fast ones
-
 ## Featured projects
 
 - [OpenCast](https://github.com/antondkg/OpenCast) - a Raycast client for local OpenCode sessions
 - [mcp-imessage](https://github.com/antondkg/mcp-imessage) - a Rust MCP server for reading and sending iMessages
 - [homebrew-tap](https://github.com/antondkg/homebrew-tap) - Homebrew formulas for the tools I publish
+
+## What I do
+
+- shipping tools around OpenCode, Raycast, MCPs, and automation
+- turning annoying workflows into fast ones
+- building <a href="https://vallor.ai">Vallor</a>
 
 ## Current vibe
 
